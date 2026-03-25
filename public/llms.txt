@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+שוקולד טבעוני גורמה שנולד מנוסטלגיה ואהבה אמיתית. מרכיבים טבעיים, טעמים עשירים ומתכונים ייחודיים שיגרמו לכם להתאהב מחדש בשוקולד. גלו את הקסם.
+
+### הסיפור שלנו
+https://example.com/our-story
+הסיפור מאחורי Bis of Love מתחיל בילדות בכפר לטבי, בין פירות טריים וזיכרונות עמוקים. גלו כיצד נוסטלגיה הפכה למותג שוקולד טבעוני מרגש ובלתי נשכח.
+
+### מלאכה ומרכיבים
+https://example.com/craft-and-ingredients
+כל שוקולד טבעוני של Bis of Love מיוצר ממרכיבים טבעיים ברמה הגבוהה ביותר. גלו את המלאכה האומנותית, תהליך הייצור הקפדני והחומרים שהופכים כל ביס לחוויה.
+
+### צור קשר
+https://example.com/contact
+רוצים לשמוע עוד על שוקולד טבעוני של Bis of Love, להזמין מוצרים או לשתף פעולה? אנחנו כאן בשבילכם — צרו קשר ונשמח לענות על כל שאלה בחום ובאהבה.
+
+### Products
+https://example.com/products
+המוצרים שלנו - Bis of Love
+
+### Cart
+https://example.com/cart
+עגלת הקניות שלך
+
+### Checkout
+https://example.com/checkout
+תשלום
+
+### Login
+https://example.com/login
+התחברות לקוחות
+
+### Account
+https://example.com/account
+החשבון שלי
+
+### Order Success
+https://example.com/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://example.com/product/:slug
+פרטי המוצר - Bis of Love
+
+### Category
+https://example.com/category/:slug
+מוצרים - Bis of Love
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
